@@ -1,0 +1,7 @@
+br\com\contact\ContactController.class
+br\com\contact\Contact.class
+br\com\contact\ContactApplication.class
+br\com\contact\ContactRepository.class
+br\com\contact\ContactService.class
+br\com\contact\Contact$ContactBuilder.class
+br\com\contact\ContactServiceImpl.class
